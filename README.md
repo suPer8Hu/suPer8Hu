@@ -10,7 +10,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Young Hu, Computer Engineer & Developer @ <a href="https://www.cs.wisc.edu/">University of Wisconsin Madison</a>
+  Hi, I'm Changlin Hu, Computer Engineer & Developer @ <a href="https://www.cs.wisc.edu/">University of Wisconsin Madison</a>
   <br>
   <br>
   🔬 I'm currently persuing a Undergraduate degree in Computer Science @University of Wisconsin Madison 
