@@ -19,7 +19,7 @@
   <br>
   📚 I’m currently develping a EHR system with springboot and Apache Dubbo
   <br>
-  💬 Ask me anything about from <a href="https://github.com/suPer8Hu/suPer8Hu/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/suPer8Hu/suPer8Hu/issues" title="Issues">Here</a> and my personal <a href="https://timely-sprinkles-c55fc0.netlify.app/">Blog</a>
   <br>
   📫 You can also reach out to me: <a href="mailto: changlinusf@gmail.com">changlinusf@gmail.com</a>
 </p>
